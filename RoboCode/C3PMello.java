@@ -1,4 +1,3 @@
-
 package LucasMello_c3pme;
 import robocode.*;
 import static robocode.util.Utils.normalRelativeAngleDegrees;
