@@ -1,8 +1,8 @@
 {
-    "name": "C3PMello",
-    "tag": "C3PMello",
-    "pilot": "Lucas",
-    "mainFile": "https://gitlab.com/mellolucas/robocode-c3pmello/-/blob/master/RoboCode/C3PMello.java",
+    "name": "C3PMello2",
+    "tag": "C3PMello2",
+    "pilot": "Mello, Lucas Mello",
+    "mainFile": "https://gitlab.com/mellolucas/robocode-c3pmello/-/blob/master/LucasMello/C3PMello2.java",
     "supportFiles": [
-        "https://gitlab.com/mellolucas/robocode-c3pmello/-/blob/master/RoboCode/C3pmello.class"]
+        "https://gitlab.com/mellolucas/robocode-c3pmello/-/blob/master/LucasMello/C3PMello2.class"]
 }
