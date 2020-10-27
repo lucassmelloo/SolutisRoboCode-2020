@@ -1,25 +1,48 @@
-# Projeto RoboCode Solutis
-Participante: Lucas de Mello Vieira
+# Projeto RoboCode Solutis 
 
-## Descrição: Utilizei codigos de dois robos, os quais identifiquei uma boa estrategia de combate: TrackFire e Walls
-- Robo TrackFire: esse robo utiliza uma estrategia na qual fica parado e acompanha o seu alvo apenas com o canhão, atirando no sentido do alvo.
-- Robo Walls: O Walls logo no inicio do combate, vai para o lado da parede e se alinha a ela feito isso, vai percorrendo a lateral do campo de batalha e sempre que escaneia um robo simplesmente atira.
-## Estrategia:
-- O meu robo é uma junção da maneira de atirar do TrackFire com a movimentação do Walls.
+Participante: Lucas de Mello Vieira 
 
-## Estrutura do Codigo:
-- Linhas 1 a 4: Importação do pacote e bibliotecas.
-- Linha 11 a 100: função principal e declarações de algumas variaveis.
-- Linha 19 a 44: Rotina principal do C3PMello, alem da estilização do Robo.
-- Linha 49 a 74: Reação caso escaneie um robo.
-- Linha 79 a 83: Reação caso seja atingido.
-- Linha 88 a 99: Reação caso bata na parede
+Robo: C3PMello2
+ 
 
-## Pontos fortes e Pontos Fracos:
-### Pontos Fortes:
-O robo tem uma constante movimentação tornando ele dificil de acertar, e como ele anda perto das paredes torna mais dificil com outros robos
-### Pontos Fracos:
-O ponto fraco desse robo, por conta da sua constante movimentação a precisão dele é baixa, mesmo mirando em outro robo, então fiz com que ele atirasse quando estivesse parado, para aumentar um pouco da sua precisão. isso faz com que ele tenha pouco tempo atirando nos outros robos.
+## Descrição: Observei a maneira de comportar dos robôs e percebi seus pontos fracos e pontos fortes da maioria, tento isso em vista tentei implementar minha Estratégia. 
 
-## Experiencia com o Robocode:
-A minha primeira experiencia com esse tipo de projeto, fiquei muito empolgado com a proposta de uma programação simples poremdinamica e versatil, sou um entusiasta de jogos então me animei ainda mais com o jogo de programar o meu proprio robo. Foi uma experiencia otima que consilia o estudo com algo animador! Apesar de simples as bibliotecas do robocode, são muito descritivas e de facil compreenção, facilitando o aprendizado das funções, e comandos. Aprecio bastante, o estilo do jogo em que o Robocode é baseado, Autochess e isso só fez me empenhar ainda mais para criar um robo, levando a competição para um lado esportivo, MUITO INTERESSANTE! Gostei muito da experiencia!
+O robô que mais se identificava com minha estratégia foi o robô Walls porem notei algumas falhas como, batia em paredes 
+
+- Robo Walls: O Walls logo no início do combate, vai para o lado da parede e se alinha a ela feito isso, vai percorrendo a lateral do campo de batalha e sempre que escaneia um robô atira. 
+
+ 
+ 
+
+## Estratégia: 
+
+Analisando a maioria dos robôs, percebi que um dos pontos fracos da maioria: 
+
+- Se jogavam contra a parede constante mente (perdendo vida). 
+
+- Caso ficassem muito tempo no meio do campo morriam por foco dos outros robôs. 
+
+- Os robôs que se movimentam mais são mais difíceis de ser alvejados. 
+
+Então decidi fazer um robô que, preenchesse todos esses requisitos.  
+
+ 
+ 
+ 
+
+## Pontos fortes e Pontos Fracos: 
+
+### Pontos Fortes: 
+
+Devido as minhas alterações no código do Robô Walls, fiz com que ele não precisasse mais bater nas paredes para alterar sua movimentação, além disso após o número de oponentes ficarem reduzidos a menor 5, ele altera o padrão de movimentação dele, fazendo ele percorrer todas as paredes. 
+
+### Pontos Fracos: 
+
+O ponto fraco desse robo, por conta da sua constante movimentação a precisão dele é baixa para alvos em movimento, para aumentar um pouco da sua precisão fiz com que ele inicialmente corresse apenas uma parede assim diminuiria um pouco a dificuldade em acerta algum alvo. 
+
+ 
+ 
+
+## Experiencia com o Robocode: 
+
+A minha primeira experiencia com esse tipo de projeto, fiquei muito empolgado com a proposta de uma programação simples porem dinâmica e versátil, sou um entusiasta de jogos então me animei ainda mais com a ideia de programar o meu próprio robô. Foi uma experiencia ótima que concilia o estudo com um hobbie! Apesar de simples as bibliotecas do robocode, são muito descritivas e de fácil compreensão, facilitando o aprendizado das funções, e comandos. Aprecio bastante, o estilo do jogo em que o Robocode é baseado, Autochess e isso só fez me empenhar ainda mais para criar um robô, levando a competição para um lado esportivo, me animei muito com o projeto mesmo com ele concluído, as vezes no meio do dia pensava em alguma ideia para o meu robô alterava ele ainda mais, por mais que ele esteja até que básico, acredito que avancei muito do meu primeiro robô até a conclusão dele. Consegui abstrair bastante da minha ideia inicial, e consegui executar a ideia que eu tinha em mente! U  
