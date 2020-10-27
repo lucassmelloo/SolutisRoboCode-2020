@@ -31,7 +31,7 @@ Então decidi fazer um robô que, preenchesse todos esses requisitos.
  
  
 
-## Pontos fortes e Pontos Fracos: 
+## Pontos fortes e pontos fracos: 
 
 ### Pontos Fortes: 
 
@@ -46,4 +46,4 @@ O ponto fraco desse robo, por conta da sua constante movimentação a precisão 
 
 ## Experiencia com o Robocode: 
 
-A minha primeira experiencia com esse tipo de projeto, fiquei muito empolgado com a proposta de uma programação simples porem dinâmica e versátil, sou um entusiasta de jogos então me animei ainda mais com a ideia de programar o meu próprio robô. Foi uma experiencia ótima que concilia o estudo com um hobbie! Apesar de simples as bibliotecas do robocode, são muito descritivas e de fácil compreensão, facilitando o aprendizado das funções, e comandos. Aprecio bastante, o estilo do jogo em que o Robocode é baseado, Autochess e isso só fez me empenhar ainda mais para criar um robô, levando a competição para um lado esportivo, me animei muito com o projeto mesmo com ele concluído, as vezes no meio do dia pensava em alguma ideia para o meu robô alterava ele ainda mais, por mais que ele esteja até que básico, acredito que avancei muito do meu primeiro robô até a conclusão dele. Consegui abstrair bastante da minha ideia inicial, e consegui executar a ideia que eu tinha em mente! U  
+A minha primeira experiencia com esse tipo de projeto, fiquei muito empolgado com a proposta de uma programação simples porem dinâmica e versátil, sou um entusiasta de jogos então me animei ainda mais com a ideia de programar o meu próprio robô. Foi uma experiencia ótima que concilia o estudo com um hobbie! Apesar de simples as bibliotecas do robocode, são muito descritivas e de fácil compreensão, facilitando o aprendizado das funções, e comandos. Aprecio bastante, o estilo do jogo em que o Robocode é baseado, Autochess e isso só fez me empenhar ainda mais para criar um robô, levando a competição para um lado esportivo, me animei muito com o projeto mesmo com ele concluído, as vezes no meio do dia pensava em alguma ideia para o meu robô alterava ele ainda mais, por mais que ele esteja até que básico, acredito que avancei muito do meu primeiro robô até a conclusão dele. Consegui abstrair bastante da minha ideia inicial, e consegui executar a ideia que eu tinha em mente! 
