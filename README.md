@@ -6,11 +6,11 @@ Robo: C3PMello2
 
  
 
-## Descrição: Observei a maneira que os robos se comportão e percebi seus pontos fracos e pontos fortes da maioria, tento isso em vista tentei implementar minha Estratégia. 
+## Descrição: Observei a maneira que os robos se comportam e percebi seus pontos fracos e pontos fortes da maioria, tento isso em vista tentei implementar minha Estratégia. 
 
-O robô que mais se identificava com minha estratégia foi o robô Walls porem notei algumas falhas como, batia em paredes, e tinha um padrão de movimentação muito basico para uma competição. Então modifiquei ele, para atender minhas ideias.
+O robô que mais se identificava com minha estratégia foi o robô Walls porém notei algumas falhas como, batia em paredes, e tinha um padrão de movimentação muito basico para uma competição. Então modifiquei ele, para atender minhas ideias.
 
-- Descrição rapida do robô Walls: O Walls logo no início do combate, vai para o lado da parede e se alinha a ela feito isso, vai percorrer as paredes do campo de batalha, dando voltas e voltas, sempre que ele escaneia um robô, atira. 
+- Descrição rapida do robô Walls: O Walls logo no início do combate vai para o lado da parede e se alinha feito isso, vai percorrer as paredes do campo de batalha dando voltas e voltas, sempre que ele escaneia um robo o Walls dispara. 
 
  
  
