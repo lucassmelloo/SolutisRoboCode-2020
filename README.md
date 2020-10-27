@@ -3,6 +3,8 @@
 Participante: Lucas de Mello Vieira 
 
 Robo: C3PMello2
+
+![C3PMello](https://gitlab.com/mellolucas/robocode-c3pmello/-/blob/master/readmeassets/C3PMello.gif)
  
 
 ## Descrição: Observei a maneira de comportar dos robôs e percebi seus pontos fracos e pontos fortes da maioria, tento isso em vista tentei implementar minha Estratégia. 
