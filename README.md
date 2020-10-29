@@ -6,44 +6,44 @@ Robo: C3PMello2
 
  
 
-## Descrição: Observei a maneira que os robos se comportam e percebi seus pontos fracos e pontos fortes da maioria, tento isso em vista tentei implementar minha Estratégia. 
+## Descrição: Após observar a maneira em que os robôs se comportam, foi percebido os pontos fracos e seus pontos fortes, portanto, implementei a minha Estratégia.
 
-O robô que mais se identificava com minha estratégia foi o robô Walls porém notei algumas falhas como, batia em paredes, e tinha um padrão de movimentação muito basico para uma competição. Então modifiquei ele, para atender minhas ideias.
+O robô Walls foi o que mais se identificou com a minha estratégia, mas foi apresentado algumas falhas, como bater em paredes e padrão de movimentação básica para uma competição. Então para atender às minhas ideias e estratégia, modifiquei ele.
 
-- Descrição rapida do robô Walls: O Walls logo no início do combate vai para o lado da parede e se alinha feito isso, vai percorrer as paredes do campo de batalha dando voltas e voltas, sempre que ele escaneia um robo o Walls dispara. 
-
- 
+- Breve descrição do robô Walls: O robô Walls assim que inicia o combate vai para o lado da parede e se alinha, ele percorre as paredes do campo de batalha dando diversas voltas, e sempre em que ele escaneia um robô, o Walls dispara.
  
 
 ## Estratégia: 
 
-Analisando a maioria dos robôs, percebi que um dos pontos fracos da maioria: 
+Analisando a maior parte dos robôs, foi apresentado um de seus pontos fracos:
 
-- Se jogavam contra a parede constante mente (perdendo vida). 
+- Se jogavam contra a parede constantemente (perdendo vida). 
 
 - Caso ficassem muito tempo no meio do campo morriam por foco dos outros robôs. 
 
-- Os robôs que se movimentam mais são mais difíceis de ser alvejados. 
+- Os robôs que se movimentam com maior frequência, são mais difíceis de ser alvejados. 
 
-Então decidi fazer um robô que, preenchesse todos esses requisitos.  
+Então decidi fazer um robô que preenchesse todos esses requisitos.  
 
  
  
  
 
-## Pontos fortes e pontos fracos: 
+## Pontos fortes e Pontos fracos: 
 
 ### Pontos Fortes: 
 
-Devido as minhas alterações no código do Robô Walls, fiz com que ele não precisasse mais bater nas paredes para alterar sua movimentação, além disso após o número de oponentes ficarem reduzidos a menor 5, ele altera o padrão de movimentação dele, fazendo ele percorrer todas as paredes. 
+Devido as minhas alterações no código do Robô Walls, fiz com que ele não precisasse mais bater nas paredes para alterar sua movimentação, além disso, após o número de oponentes ficarem reduzidos a menor 5, ele altera o padrão de movimentação dele, fazendo ele percorrer todas as paredes. 
+
 
 ### Pontos Fracos: 
 
-O ponto fraco desse robo, por conta da sua constante movimentação a precisão dele é baixa para alvos em movimento, para aumentar um pouco da sua precisão fiz com que ele inicialmente corresse apenas uma parede assim diminuiria um pouco a dificuldade em acerta algum alvo. 
+O ponto fraco desse robô, por conta da sua constante movimentação, a precisão dele é baixa para alvos em movimento, para aumentar um pouco da sua precisão, fiz com que ele inicialmente corresse apenas uma parede, assim diminuiria um pouco da dificuldade em acertar algum alvo. 
 
  
  
 
-## Experiencia com o Robocode: 
+## Experiência com o Robocode: 
 
-A minha primeira experiencia com esse tipo de projeto, fiquei muito empolgado com a proposta de uma programação simples porem dinâmica e versátil, sou um entusiasta de jogos então me animei ainda mais com a ideia de programar o meu próprio robô. Foi uma experiencia ótima que concilia o estudo com um hobbie! Apesar de simples as bibliotecas do robocode, são muito descritivas e de fácil compreensão, facilitando o aprendizado das funções, e comandos. Aprecio bastante, o estilo do jogo em que o Robocode é baseado, Autochess e isso só fez me empenhar ainda mais para criar um robô, levando a competição para um lado esportivo, me animei muito com o projeto mesmo com ele concluído, as vezes no meio do dia pensava em alguma ideia para o meu robô alterava ele ainda mais, por mais que ele esteja até que básico, acredito que avancei muito do meu primeiro robô até a conclusão dele. Consegui abstrair bastante da minha ideia inicial, e consegui executar a ideia que eu tinha em mente! 
+Foi a minha primeira experiência com esse tipo de projeto, fiquei muito feliz com a proposta de uma programação simples, dinâmica e versátil, sou um admirador de jogos, então com esse projeto me animei muito com a ideia de programar o meu próprio robô. Foi uma experiência ótima, que concilia o estudo com um hobby! 
+Apesar de simples as bibliotecas do Robocode, são muito descritivas e de fácil compreensão, facilitando o aprendizado das funções, e comandos. Aprecio bastante o estilo do jogo em que o Robocode é baseado, Autochess, com isso só me fez empenhar ainda mais para criar um robô, levando a competição para um lado esportivo, me animei muito com o projeto mesmo com ele concluído. Por mais que ele esteja básico, acredito que avancei muito do meu primeiro robô até a conclusão dele. Consegui mostrar bastante da minha ideia inicial, e consegui executar a ideia que eu tinha em mente!
